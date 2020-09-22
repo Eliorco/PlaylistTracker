@@ -1,5 +1,5 @@
 <h1>Hi Trackers!</h1>
-<h3>Now you can follow and extract your favorite music categoies without doing NOTHING!</h3><br>
+<h3>Now you can follow and extract your favorite music categories without doing NOTHING!</h3><br>
 <article>
 <h4>Prerequisites</h4>
 - in order to access spotify and db set these key in your envrionment 
@@ -13,7 +13,7 @@ SQLALCHEMY_DATABASE_URI=sqlite:///{name_your_db}.db
 <br>
 - clone repo
 <br><code>
-clone https://.......
+clone https://github.com/Eliorco/PlaylistTracker.git
 </code><br>
 - install python packages
 <br><code>
