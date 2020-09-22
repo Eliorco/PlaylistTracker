@@ -39,3 +39,31 @@ You can perform dry run just add param to uri to indicate the tracker<br>
 <br>
 enjoy
 </article>
+
+<h4>Output</h4>
+<code>{
+    "Danceability": 0.699, 
+    "Loudness": -4.856, 
+    "Popularity": 60, 
+    "Timestamp": 1600724521, 
+    "artistName": "M.O.P.", 
+    "categoryName": "hiphop", 
+    "playlistIndex": "67", 
+    "playlistName": "\ud83d\udca5 TOP 100 OLDSCHOOL HIP HOP TRACKS \ud83d\udca5 - Created by Dj-Ush", 
+    "trackId": "550JPXXPgjr1xqxtKIaX6b", 
+    "trackIndex": "4", 
+    "trackName": "Ante Up (Robbin Hoodz Theory)"
+  }, 
+  {
+    "Danceability": 0.657, 
+    "Loudness": -4.938, 
+    "Popularity": 73, 
+    "Timestamp": 1600724521, 
+    "artistName": "Usher", 
+    "categoryName": "hiphop", 
+    "playlistIndex": "67", 
+    "playlistName": "\ud83d\udca5 TOP 100 OLDSCHOOL HIP HOP TRACKS \ud83d\udca5 - Created by Dj-Ush", 
+    "trackId": "2QsZVnbWVSjKMXK6K3uRBL", 
+    "trackIndex": "2", 
+    "trackName": "U Remind Me"
+  }, </code>

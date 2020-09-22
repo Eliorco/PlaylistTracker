@@ -27,7 +27,7 @@ class Tracker:
         results_list = list()
 
         for i in [0, 50]:
-            results = sp.search(q=f'{self.category}', type='playlist', offset=i, limit=MAX_PLAYLISTS)
+            results = sp.search(q=f'top 100 {self.category}', type='playlist', offset=i, limit=MAX_PLAYLISTS)
             for _, playlist in enumerate(results['playlists']['items']):
                 results_list.append(playlist['id'])
 
